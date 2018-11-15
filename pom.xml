@@ -24,12 +24,12 @@
     </licenses>
     
     <modules>
-        <module>KonnektingXmlSchema</module>
-        <module>KonnektingDeviceConfig</module>
-        <module>KonnektingSuite</module>
-        <module>KonnektingSuiteDistribution</module>
-        <module>KonnektingCodeCreator</module>
-        <module>KonnektingCreator/konnekting-creator</module>
+        <module>../KonnektingXmlSchema</module>
+        <module>../KonnektingDeviceConfig</module>
+        <module>../KonnektingSuite</module>
+        <module>../KonnektingSuiteDistribution</module>
+        <module>../KonnektingCodeCreator</module>
+        <!--<module>../KonnektingCreator/konnekting-creator</module>-->
     </modules>
     
     <!-- upload informations for deploying the jar -->
