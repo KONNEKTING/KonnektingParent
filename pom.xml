@@ -37,13 +37,13 @@
         <repository>
             <id>root1-releases</id>
             <name>internal releases</name>
-            <url>ftp://maven.root1.de/releases/</url>
+            <url>http://maven.root1.de/repository/releases/</url>
         </repository>
         <snapshotRepository>
             <id>root1-snapshots</id>
             <name>internal snapshots</name>
-            <url>ftp://maven.root1.de/snapshots/</url>
-        </snapshotRepository>
+            <url>http://maven.root1.de/repository/snapshots/</url>
+        </snapshotRepository>      
     </distributionManagement>
     
     <repositories>      
