@@ -23,14 +23,14 @@
         </license>
     </licenses>
     
-    <modules>
+<!--    <modules>
         <module>../KonnektingXmlSchema</module>
         <module>../KonnektingDeviceConfig</module>
         <module>../KonnektingSuite</module>
         <module>../KonnektingSuiteDistribution</module>
         <module>../KonnektingCodeCreator</module>
         <module>../KonnektingCreator/konnekting-creator</module>
-    </modules>
+    </modules>-->
     
     
     <build>
